@@ -12,13 +12,13 @@ export default function InfoCard() {
                 entre altres conceptes vists a classe.
                 <hr/>
                 <h4>Alumnes:</h4>
-                <b>Sara Lopez:</b>{' '}<span>Cordinadora</span><br/>
-                <b>Carles Ortega:</b>{' '}<span>Maquetación</span><br/>
-                <b>Mar Sánchez:</b>{' '}<span>Maquetación</span><br/>
+                <b>Sara Lopez:</b>{' '}<span>Coordinadora</span><br/>
+                <b>Carles Ortega:</b>{' '}<span>Maquetació</span><br/>
+                <b>Mar Sánchez:</b>{' '}<span>Maquetació</span><br/>
                 <b>Milene Chariguaman:</b>{' '}<span>Redactora</span><br/>
-                <b>Dario Lopez:</b>{' '}<span>Traductor</span><br/>
-                <b>judit Evangelio:</b>{' '}<span>Maquetación</span><br/>
-                <b>Josep Malonda:</b>{' '}<span>Programador Pagina web</span>
+                <b>Dario López:</b>{' '}<span>Traductor</span><br/>
+                <b>judit Evangelio:</b>{' '}<span>Maquetació</span><br/>
+                <b>Josep Malonda:</b>{' '}<span>Programador de la pàgina web</span>
             </Card.Body>
         </Card>
     )

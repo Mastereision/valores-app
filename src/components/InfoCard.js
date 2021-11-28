@@ -6,10 +6,10 @@ export default function InfoCard() {
             <Card.Body>
                 <h2 className="text-center">Informació</h2>
                 <hr></hr>
-                Aquest treball a sigut create pels alumnes del centre José Ballester
-                Gozalbo (3ESOC). Aquest treball es una recopilació de noticies
+                Aquest treball ha sigut creat pels alumnes del centre José Ballester
+                Gozalbo (3er E.S.O C). Aquest treball es una recopilació de notícies
                 que tenen a veure amb els drets humans, La Unió Europea,
-                entre altres conceptes vists a clase.
+                entre altres conceptes vists a classe.
                 <hr/>
                 <h4>Alumnes:</h4>
                 <b>Sara Lopez:</b>{' '}<span>Cordinadora</span><br/>
